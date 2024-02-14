@@ -1,2 +1,2 @@
-# Cat_tastrophe_Bathtime
-Unity3D 슈팅 액션 TPS 팀프로젝트
+# 🐈 Cat_tastrophe_Bathtime 
+Unity 3D TPS 액션 팀 프로젝트
